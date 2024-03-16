@@ -89,5 +89,5 @@ export function runTasks(): void {
   console.log("Original Array after sort and reverse: ", places);
   //Task 19 -Dinner Guests: Working with one of the programs from Exercises 14 through 18,
   // print a message indicating the number of people you are inviting to dinner.
-  console.log("Number of people invited to dinner: ", places.length);
+  console.log("Number of people invited to dinner: ", people.length);
 }
